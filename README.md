@@ -57,14 +57,15 @@
   <br/>
   <br/>
 
-### :books:Обучение
+## :books:Обучение
 - [Поколение Python](https://stepik.org/cert/2605120)
 - [Программирование на Python](https://stepik.org/cert/2554766)
 - ["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)
 - Навыки рабочей коммуникации от Яндекс Практикума
 <br/>
 <br/>
-### :star:Статистика:
+
+## :star:Статистика
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kesh113&hide=contribs&show_icons=true">
   <img  align="left" height="160" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=crossmos&hide=contribs&show_icons=true" />
