@@ -56,8 +56,6 @@
    Победил на учебном хакатоне с игрой имитирующей сражение нескольких персонажей. Бои длятся пока не останется 1 персонаж.
   <br/>
   <br/>
-<br/>
-<br/>
 
 ### :books:Обучение
 - [Поколение Python](https://stepik.org/cert/2605120)
@@ -66,7 +64,6 @@
 - Навыки рабочей коммуникации от Яндекс Практикума
 <br/>
 <br/>
-
 ### :star:Статистика:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kesh113&hide=contribs&show_icons=true">
