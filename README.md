@@ -63,7 +63,6 @@
 - ["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)
 - Навыки рабочей коммуникации от Яндекс Практикума
 <br/>
-<br/>
 
 ## :star:Статистика
 <div>
