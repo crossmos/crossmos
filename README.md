@@ -15,7 +15,7 @@
 ![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi?style=for-the-badge&logo=fastapi&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ---
 
