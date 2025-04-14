@@ -3,9 +3,8 @@
 ## :iphone:Контакты
 [![Telegram](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white)](https://t.me/Crossniros)  
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sergey_gerasimov1994@mail.ru)
-
----
-
+<br/>
+<br/>
 ## :technologist:Технологический стэк
 ### Фреймворки
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -30,11 +29,8 @@
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-00084d?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
-
-
----
-
+<br/>
+<br/>
 ## :desktop_computer:Актуальные проекты
 - [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)  
    Telegram-бот, который помогает хранить список желаний, и следить за списками своих друзей.<br/>
@@ -46,9 +42,8 @@
   Telegram-бот, который помогает отслеживать статус проекта отправленного на проверку на ЯндексПрактикуме. Бот отправляет запрос (requests) к API Яндекс Домашка, чтобы узнать статус.<br/>
 - [Arena_game](https://github.com/crossmos/arena_game)
    Победил на учебном хакатоне с игрой имитирующей сражение нескольких персонажей. Бои длятся пока не останется 1 персонаж.<br/>
-
----
-
+<br/>
+<br/>
 ## :books:Обучение
 - Курсы на stepik.org  
   [Поколение Python](https://stepik.org/cert/2605120)  
@@ -56,9 +51,8 @@
 - Курсы от Яндекс Практикума  
   ["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)  
   #Навыки рабочей коммуникации
-
----
-
+<br/>
+<br/>
 ### :star:Статистика:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kesh113&hide=contribs&show_icons=true">
