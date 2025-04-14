@@ -33,7 +33,7 @@
 ---
 
 ## :desktop_computer:Актуальные проекты
-- [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)
+- [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)  
    Telegram-бот, который помогает хранить список желаний, и следить за списками своих друзей.  
 - [CarWallet](https://github.com/crossmos/CarWallet)
 - [FoundFoods](https://github.com/crossmos/FoundFoods)
