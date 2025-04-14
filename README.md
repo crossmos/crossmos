@@ -8,9 +8,9 @@
 
 ## :technologist:Технологический стэк
 
-![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django-rest-framework&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
-![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=pytelegrambotapi&logoColor=white)
+![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=telegram&logoColor=white)
 
 ---
 
