@@ -1,7 +1,7 @@
 # Привет, меня зовут Сергей :)
 
 ## :iphone:Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/Crossniros)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=white)](https://t.me/Crossniros)  
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sergey_gerasimov1994@mail.ru)
 
 ---
@@ -9,14 +9,24 @@
 ## :technologist:Технологический стэк
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
+![pyTest](https://img.shields.io/badge/pytest-131317?style=for-the-badge&logo=pytest&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-131317?style=for-the-badge&logo=unittest&logoColor=white)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=telegram&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-00084d?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+
+---
+![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Alembic](https://img.shields.io/badge/alembic-131317?style=for-the-badge&logo=alembic&logoColor=white)
+![Pydantic](https://img.shields.io/badge/pydantic-131317?style=for-the-badge&logo=pydantic&logoColor=white)
+![SQLalchemy](https://img.shields.io/badge/sqlalchemy-110000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
+---
+![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-00084d?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 
 ---
