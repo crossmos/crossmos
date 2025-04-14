@@ -1,8 +1,8 @@
 ## Привет, меня зовут Сергей :)
 
-# Мои контакты:
-1. [Telegram](https://t.me/Crossniros)
-2. [E-mail](sergey_gerasimov1994@mail.ru)
+[!Контакты]
+[Telegram](https://t.me/Crossniros)
+[E-mail](sergey_gerasimov1994@mail.ru)
 
 
 <!--
