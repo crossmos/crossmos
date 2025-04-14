@@ -23,7 +23,7 @@
 ![Redis](https://img.shields.io/badge/redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)
 <br/>
 ![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-0d1117?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-00084d?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
