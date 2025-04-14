@@ -10,6 +10,13 @@
 ### Технологический стэк
 ![Django](https://img.shields.io/pypi/frameworkversions/django/Django)
 
+### Актуальные проекты
+- [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)
+- [CarWallet](https://github.com/crossmos/CarWallet)
+- [FoundFoods](https://github.com/crossmos/FoundFoods)
+- [Homework_bot](https://github.com/crossmos/homework_bot)
+- [Arena_game](https://github.com/crossmos/arena_game)
+
 
 ### :star:Моя статистика:
 <div>
