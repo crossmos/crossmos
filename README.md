@@ -15,7 +15,7 @@
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kesh113&hide=contribs&show_icons=true">
   <img  align="left" height="240" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=crossmos&hide=contribs&show_icons=true" />
-</a>/
+</a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh113&layout=compact">
   <img align="left" height="240" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crossmos&layout=compact" />
 </a>
