@@ -8,7 +8,7 @@
 
 
 ### Технологический стэк
-![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-008500?style=for-the-badge&logo=django-rest-framework&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django-rest-framework&logoColor=white)
 
 ### Актуальные проекты
 - [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)
