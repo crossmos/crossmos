@@ -1,7 +1,7 @@
 # Привет, меня зовут Сергей :)
 
 ## :iphone:Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=social&logo=telegram&logoColor=white)](https://t.me/Crossniros)  
+[![Telegram](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white)](https://t.me/Crossniros)  
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sergey_gerasimov1994@mail.ru)
 
 ---
@@ -19,6 +19,9 @@
 ![Alembic](https://img.shields.io/badge/alembic-131317?style=for-the-badge&logo=alembic&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/pydantic-131317?style=for-the-badge&logo=pydantic&logoColor=white)
 ![SQLalchemy](https://img.shields.io/badge/sqlalchemy-110000?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-131317?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-131317?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 ![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
@@ -33,6 +36,7 @@
 
 ## :desktop_computer:Актуальные проекты
 - [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)
+Telegram-бот, который помогает хранить список желаний, и следить за списками своих друзей.  
 - [CarWallet](https://github.com/crossmos/CarWallet)
 - [FoundFoods](https://github.com/crossmos/FoundFoods)
 - [Homework_bot](https://github.com/crossmos/homework_bot)
