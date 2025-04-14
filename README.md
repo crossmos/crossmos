@@ -7,7 +7,10 @@
 ---
 
 ## :technologist:Технологический стэк
-![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django-rest-framework&logoColor=white)
+
+![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django-rest-framework&logoColor=white)
+![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
+![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=pytelegrambotapi&logoColor=white)
 
 ---
 
@@ -22,10 +25,10 @@
 
 ## :books:Обучение
 - Курсы на stepik.org  
-  #[Поколение Python](https://stepik.org/cert/2605120)  
-  #[Программирование на Python](https://stepik.org/cert/2554766)
+  [Поколение Python](https://stepik.org/cert/2605120)  
+  [Программирование на Python](https://stepik.org/cert/2554766)
 - Курсы от Яндекс Практикума  
-  #["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)  
+  ["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)  
   #Навыки рабочей коммуникации
 
 ---
