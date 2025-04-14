@@ -7,14 +7,14 @@
 ---
 
 ## :technologist:Технологический стэк
-# Фреймворки
+### Фреймворки
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![pyTest](https://img.shields.io/badge/pytest-131317?style=for-the-badge&logo=pytest&logoColor=white)
 ![unittest](https://img.shields.io/badge/unittest-131317?style=for-the-badge&logo=unittest&logoColor=white)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=telegram&logoColor=white)
 <br/>
-# API, Базы данных и работа с валидацией и миграциями
+### API, Базы данных и работа с валидацией и миграциями
 ![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Alembic](https://img.shields.io/badge/alembic-131317?style=for-the-badge&logo=alembic&logoColor=white)
@@ -24,7 +24,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-131317?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)
 <br/>
-# Прочие технологии
+### Прочие технологии
 ![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
