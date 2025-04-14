@@ -5,6 +5,12 @@
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sergey_gerasimov1994@mail.ru)
 
 ### Достижения
+- Курсы на stepik.org
+  1. [Поколение Python](https://stepik.org/cert/2605120)
+  2. [Программирование на Python](https://stepik.org/cert/2554766)
+- Курсы от Яндекс Практикума
+  1. ["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)
+  2. Навыки рабочей коммуникации
 
 
 ### Технологический стэк
