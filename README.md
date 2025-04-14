@@ -7,10 +7,11 @@
 ---
 
 ## :technologist:Технологический стэк
-![Python](https://img.shields.io/badge/python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=telegram&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
