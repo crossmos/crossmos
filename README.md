@@ -1,6 +1,6 @@
 ## Привет, меня зовут Сергей :)
 
-[!Контакты]
+[!NOTE]
 [Telegram](https://t.me/Crossniros)
 [E-mail](sergey_gerasimov1994@mail.ru)
 
