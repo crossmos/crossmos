@@ -1,8 +1,8 @@
 # Привет, меня зовут Сергей :)
 
 ## :iphone:Контакты
-[![Telegram](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white)](https://t.me/Crossniros)  
-[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:sergey_gerasimov1994@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?&logo=telegram&logoColor=white&style=for-the-badge&w=100)](https://t.me/Crossniros)  
+[![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge&w=80)](mailto:sergey_gerasimov1994@mail.ru)
 <br/>
 <br/>
 ## :technologist:Технологический стэк
