@@ -7,6 +7,10 @@
 ### Достижения
 
 
+### Технологический стэк
+![Django](https://img.shields.io/pypi/frameworkversions/django/Django)
+
+
 
 <!--
 **crossmos/crossmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
