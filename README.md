@@ -5,6 +5,7 @@
 [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white&style=for-the-badge&h=48)](mailto:sergey_gerasimov1994@mail.ru)
 <br/>
 <br/>
+
 ## :technologist:Технологический стэк
 ### Фреймворки
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -13,6 +14,7 @@
 ![unittest](https://img.shields.io/badge/unittest-131317?style=for-the-badge&logo=unittest&logoColor=white)
 ![pyTelegramBotAPI](https://img.shields.io/badge/pyTelegramBotAPI-blue?style=for-the-badge&logo=telegram&logoColor=white)
 <br/>
+
 ### API, Базы данных и работа с валидацией и миграциями
 ![Django REST Framework](https://img.shields.io/badge/Django%20Rest%20Framework-092e20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-009485?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -23,6 +25,7 @@
 ![SQLite](https://img.shields.io/badge/SQLite-131317?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-A41E11?style=for-the-badge&logo=redis&logoColor=white)
 <br/>
+
 ### Прочие технологии
 ![Jira](https://img.shields.io/badge/jira-172B4D?style=for-the-badge&logo=jira&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
@@ -31,6 +34,7 @@
 ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 <br/>
 <br/>
+
 ## :desktop_computer:Актуальные проекты
 - [FriendsWishesBot](https://github.com/crossmos/FriendsWishesBot)  
    Telegram-бот, который помогает хранить список желаний, и следить за списками своих друзей.
@@ -54,13 +58,15 @@
   <br/>
 <br/>
 <br/>
-## :books:Обучение
+
+### :books:Обучение
 - [Поколение Python](https://stepik.org/cert/2605120)
 - [Программирование на Python](https://stepik.org/cert/2554766)
 - ["Python-разработчик буткем" от Яндекс Практикума](https://practicum.yandex.ru/python-developer-bootcamp/?from=catalog)
 - Навыки рабочей коммуникации от Яндекс Практикума
 <br/>
 <br/>
+
 ### :star:Статистика:
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=kesh113&hide=contribs&show_icons=true">
