@@ -1,4 +1,9 @@
-## Hi there 👋
+## Привет, меня зовут Сергей :)
+
+# Мои контакты:
+1. [Telegram](https://t.me/Crossniros)
+2. [E-mail](sergey_gerasimov1994@mail.ru)
+
 
 <!--
 **crossmos/crossmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
