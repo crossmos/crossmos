@@ -11,6 +11,16 @@
 ![Django](https://img.shields.io/pypi/frameworkversions/django/Django)
 
 
+### :star:Моя статистика:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=kesh113&hide=contribs&show_icons=true">
+  <img  align="left" height="200" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=crossmos&hide=contribs&show_icons=true" />
+</a>  
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=kesh113&layout=compact">
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crossmos&layout=compact" />
+</a>
+</div>
+
 
 <!--
 **crossmos/crossmos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
